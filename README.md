@@ -1,0 +1,1 @@
+Practical works as part of the lecture course "Containerization and application orchestration 2022/2023".

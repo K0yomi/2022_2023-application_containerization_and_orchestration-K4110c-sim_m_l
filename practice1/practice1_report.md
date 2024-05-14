@@ -7,7 +7,7 @@ Group: K4110c
 Author: Sim Maria Lvovna
 Practice: practice1
 Date of create: 13.05.2023
-Date of finished: 13.05.2023
+Date of finished: 14.05.2023
 ```
 
 ### Практическая работа №1 "Контейнеризация микросервисных приложений"
